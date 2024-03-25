@@ -14,3 +14,7 @@ Week 3 (18/3)
 - Sending requests using Python
 - Navigating response objects
 - Reading basic API documentations
+
+Week 4 (25/3)
+- Dealing with request parameters
+- Navigating more complicated response objects
