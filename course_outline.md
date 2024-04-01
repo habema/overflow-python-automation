@@ -18,3 +18,10 @@ Week 3 (18/3)
 Week 4 (25/3)
 - Dealing with request parameters
 - Navigating more complicated response objects
+
+Week 5 (1/4)
+- What is git
+- What is GitHub
+- Creating a local repo
+- Creating a remote repo
+- Creating a basic Discord bot (https://www.hostinger.com/tutorials/how-to-host-discord-bot)
