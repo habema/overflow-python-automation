@@ -25,3 +25,8 @@ Week 5 (1/4)
 - Creating a local repo
 - Creating a remote repo
 - Creating a basic Discord bot (https://www.hostinger.com/tutorials/how-to-host-discord-bot)
+
+Week 6 (15/4)
+- Implementing more features into the bot (weather function)
+- Deploying EC2 instance
+- Understanding the basics of running code on server
