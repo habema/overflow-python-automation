@@ -30,3 +30,9 @@ Week 6 (15/4)
 - Implementing more features into the bot (weather function)
 - Deploying EC2 instance
 - Understanding the basics of running code on server
+
+Week 7 (29/4)
+- Revisiting Selenium
+- Creating a plan of action for implementing "Regnew" registration automator
+- Implementing said plan
+- Emailing function when course is registered using app passwords (https://support.google.com/accounts/answer/185833?hl=en)
