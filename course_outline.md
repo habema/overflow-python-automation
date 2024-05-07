@@ -36,3 +36,8 @@ Week 7 (29/4)
 - Creating a plan of action for implementing "Regnew" registration automator
 - Implementing said plan
 - Emailing function when course is registered using app passwords (https://support.google.com/accounts/answer/185833?hl=en)
+
+Week 8 (6/5)
+- Revisiting Discord Bots (https://github.com/Rapptz/discord.py/tree/master)
+- Get weather for any city
+- Deploy bot on EC2 instance
